@@ -39,3 +39,6 @@ python fed_cpdp.py --mode synthetic
 2. Run with your CSV dataset folder
 python fed_cpdp.py --mode csv_folder --csv_folder ./fed_cpdp_csvs/
 
+
+Run
+python src/fed_cpdp.py --csv_folder ./data/csvs --out_dir ./outputs
